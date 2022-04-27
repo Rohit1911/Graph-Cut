@@ -2,14 +2,14 @@
 
 *DISCLAIMER*: Make sure you have all the modules listed below installed
 
-numpy
-matplotlib
-cv2
-copy
-argparse
-os
-pymaxflow (requires Windows Visual Studio C++ tools installed)
-networkx  (requires Windows Visual Studio C++ tools installed)
+numpy,
+argparse,
+matplotlib,
+copy,
+cv2,
+os,
+pymaxflow (requires Windows Visual Studio C++ tools installed),
+networkx  (requires Windows Visual Studio C++ tools installed),
 
 pip install *module-name*
 
