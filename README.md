@@ -11,7 +11,7 @@ os,
 pymaxflow (requires Windows Visual Studio C++ tools installed),
 networkx  (requires Windows Visual Studio C++ tools installed),
 
-pip install *module-name*
+>open command prompt and use command <pip install *module-name*> for getting the above modules
 
 STEP 1: Creating Mask
 
