@@ -39,6 +39,6 @@ STEP 3: Graph Cut Output
 *I have provided my output and mask images for the two tasks that I have performed*
  note: Make sure to rename the input images to 'pic1' & 'pic2' before you execute.  
  
- **The Outputs I got are named as output_A & output_B
+ **The Outputs I got are named as output_A & output_B**
 
 THANK YOU..!
