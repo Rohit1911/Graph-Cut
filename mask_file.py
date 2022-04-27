@@ -10,6 +10,7 @@ import os
 import argparse
 import cv2
 
+#Configuration of the inputs
 FileNameOfPic1 = 'pic1.jpg'
 FileNameOfPic2 = 'pic2.jpg'
 FileNameOfMaskedPic = 'MaskedPic.jpg'
