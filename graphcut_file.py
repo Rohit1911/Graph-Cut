@@ -1,7 +1,7 @@
 #Rohit Sriram Muniganti
 #DF05298
 #CMSC641 Project 1 Graphcut Images
-#This is the python code used for creating the final graph cut image file
+#This is the python code used for creating the final graph cut image file.
 
 #Import the necessary modules and libraries. 
 import argparse
@@ -12,7 +12,7 @@ import maxflow
 import networkx as nx
 import numpy as np
 
-#Functions for cutting the graph
+#Functions for cutting the graph image
 class CuttingGraph:
 
     def __init__(self, pic1, pic2, mask, initial_graph_save=False):
