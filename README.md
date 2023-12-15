@@ -3,6 +3,7 @@
 *DISCLAIMER*: Make sure you have all the modules listed below installed
 test
 test2
+test3
 numpy,
 argparse,
 matplotlib,
