@@ -1,4 +1,4 @@
-#Rohit Sriram Muniganti
+#Rohit Sriram Muniganti hello
 #DF05298
 #CMSC641 Project 1 Graphcut Images
 #This is the python code used for creating the final graph cut image file.
